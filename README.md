@@ -1,11 +1,10 @@
-## Hi there 👋
+
 
 <!DOCTYPE html>
 <html lang="eng">
 
 <head>
     <meta charset="utf-8">
-    <title>Hello, I'm Leilani!</title>
     <meta name="description" content="**ljaureg/ljaureg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.">
     <meta name="author" content="Leilani Jauregui">
 </head>
