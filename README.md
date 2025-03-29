@@ -15,9 +15,10 @@
 </section>
 
 <section>
-    <p> I am a student at Arizona State University to learn about User Experience. After I graduate I plan to become a UX designer and work in technology, with a goal of making the web an exceptional experience for everyone.</p>
-    <p> I enjoy coding because I love the idea of being able to create anything imaginable from scratch, from using single tags to creating an entire web page. I enjoy using my organizational skills when I code, making sure to have a well structured document.</p>
-    <p> My technical skills include development tools like version control and HTML, as well as design tools such as PhotoShop and Illustrator.</p>
+    <p> I am a student at Arizona State University to learn about User Experience. After I graduate I plan to become a UX designer and work in technology, with a goal of making the web an exceptional experience for everyone.🌐</p>
+    <p> I enjoy coding because I love the idea of being able to create anything imaginable from scratch, from using single tags to creating an entire web page. I enjoy using my organizational skills when I code, making sure to have a well structured document.⌨️</p>
+    <p> My technical skills include development tools like version control and HTML, as well as design tools such as PhotoShop and Illustrator.🖥️</p>
+    <p>My hobbies include hiking in nature, muay thai, painting, and beading.🎨</p>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJhaWZxeXpiNTluaDZubGt0aGxtZW9vb2JlZXdxemJ4cmJ1ZWsxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif">
 
 <section>
