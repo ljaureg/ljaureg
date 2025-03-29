@@ -29,5 +29,6 @@
 <li>📫 How to reach me: email</li>
 <li>⚡ Fun fact: I love to cook!</li>
 </ul>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9qa2ZnaXViNGhiZWV2bGh6NmF0am9wMHFqZGI2eGlmazczNzI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZajKcwe8AwN4MEHGq7/giphy.gif">
 </section>
 
