@@ -14,16 +14,16 @@
 </section>   
 
 <section>
-<h2>Some Things to Know About Me:<h2>
+<h2>Some Things to Know About Me:</h2>
 <ul>
-<li>- 🔭 I’m currently working on ... getting my Bachelor of Science in Graphic Information Technology with a focus on User Experience</li>
-<li>- 🌱 I’m currently learning ...</li>
-<li>- 👯 I’m looking to collaborate on ...</li>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<li>🔭 I’m currently working on ... getting my Bachelor of Science in Graphic Information Technology with a focus on User Experience</li>
+<li>🌱 I’m currently learning ...</li>
+<li>👯 I’m looking to collaborate on ...</li>
+<li>🤔 I’m looking for help with ...</li>
+<li>💬 Ask me about ...</li>
+<li>📫 How to reach me: ...</li>
+<li>😄 Pronouns: ...</li>
+<li>⚡ Fun fact: ...</li>
 </ul>
 </section>
 
