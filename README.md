@@ -11,7 +11,12 @@
 
 <section>
     <h1>Hello, I'm Leilani!</h1>
-</section>   
+</section>
+
+<section>
+    <p>I am a student at Arizona State University to learn about User Experience. After I graduate I plan to become a UX designer and work in technology, with a goal of making the web an exceptional experience for everyone.</p>
+    <p>I enjoy coding because I love the idea of being able to create anything imaginable from scratch, from using single tags to creating an entire web page. I enjoy using my organizational skills when I code, making sure to have a well structured document.</p>
+     
 
 <section>
 <h2>Some Things to Know About Me:</h2>
